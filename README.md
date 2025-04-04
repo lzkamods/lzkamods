@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 💊 I'm lzka MODS (lezzka)
-- 🔭 I’m currently working on TELEGRAT
-- 🌱 I’m currently learning C# And Python
+- 🔭 I’m currently working on PCCT & BS:Ex
+- 🌱 I’m currently learning C++ And Python
 - 📫 How to reach me in Discord: @wrxhate
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm 13 y.o
