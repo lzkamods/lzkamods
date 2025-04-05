@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💊 I'm lzka MODS (lezzka)
+- 💊 I'm lzka aka. lzka mods
 - 🔭 I’m currently working on PCCT & BS:Ex
 - 🌱 I’m currently learning C++ And Python
 - 📫 How to reach me in Discord: @wrxhate
